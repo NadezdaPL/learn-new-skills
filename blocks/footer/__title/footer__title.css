@@ -1,0 +1,10 @@
+.footer__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 82px;  
+  color: #001C54;
+  padding-bottom: 13px;
+  margin: 0;
+  min-height: 166px;
+}

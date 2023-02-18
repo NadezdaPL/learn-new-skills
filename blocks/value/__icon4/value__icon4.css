@@ -1,0 +1,18 @@
+.value__icon4 {
+  min-width: 135px;
+  max-height: 135px;
+  background-color: #EF6944;
+  border-radius: 37px;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-image: 5.21875px solid #F8F8F8;
+  background-image: url('../../../image/Vector\ square.svg');
+  display: grid;
+  grid-template-areas: 
+  "item1 item2"
+  "item3 item4";
+  column-gap: 26.09px;
+  row-gap: 31.31px;
+  justify-content: center;
+  align-content: center;
+}

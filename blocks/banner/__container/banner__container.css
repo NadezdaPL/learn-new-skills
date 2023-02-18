@@ -1,0 +1,7 @@
+.banner__container {
+  background: linear-gradient(0deg, #F77BD6, #F77BD6), linear-gradient(328.98deg, #F2B65B 22.51%, #FFE0A5 100.87%), linear-gradient(360deg, #785BF2 -3.35%, #BF5BFC 106.64%);
+  border-radius: 90px;
+  max-width: 1325px;
+  min-height: 586px;
+  display: flex;
+}

@@ -1,0 +1,9 @@
+.value__container {
+  background: linear-gradient(137.26deg, #FA9BDF 19.49%, #F360CD 100.46%);
+  box-shadow: 0px 15px 77px rgba(255, 148, 227, 0.34);
+  border-radius: 124px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  z-index: 0;
+}

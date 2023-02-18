@@ -1,0 +1,10 @@
+.hero__title {
+  margin: 0;
+  padding-bottom: 30px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 90px;
+  color: #001C54;
+  z-index: 2;
+}

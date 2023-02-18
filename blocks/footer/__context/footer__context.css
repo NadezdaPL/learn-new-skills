@@ -1,0 +1,10 @@
+.footer__context {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 33px;  
+  color: #001C54;  
+  opacity: 0.5;
+  margin: 0;
+  padding-bottom: 26px;
+}

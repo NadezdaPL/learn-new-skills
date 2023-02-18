@@ -1,0 +1,7 @@
+.value__items {
+  margin-left: 64px;
+  margin-top: 63px;
+  margin-bottom: 45px;
+  display: flex;
+  flex-wrap: wrap;
+}

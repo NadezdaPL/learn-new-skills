@@ -1,0 +1,6 @@
+.banner__figure {
+  background-image: url('../../../image/banner.svg');
+  min-width: 402px;
+  max-height: 369px;
+  margin-top: 114px;
+}

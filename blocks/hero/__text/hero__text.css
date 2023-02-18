@@ -1,0 +1,7 @@
+.hero__text {
+  padding-top: 50px;
+  padding-bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

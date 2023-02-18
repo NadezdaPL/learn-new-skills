@@ -1,0 +1,10 @@
+.value__icon3 {
+  min-width: 135px;
+  min-height: 135px;
+  background: #EFC944;
+  border-radius: 37px;
+  margin-right: 44px;
+  background-image: url('../../../image/Vector\ case.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}

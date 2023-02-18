@@ -1,0 +1,11 @@
+.hero__item {
+  background-image: url('../../../image/Rectangle\ 1371.svg');
+  z-index: 1;
+  min-width: 372px;
+  min-height: 108px;
+  background: #F361CC;
+  border-radius: 40px;
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 42px;
+}

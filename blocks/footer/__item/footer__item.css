@@ -1,0 +1,12 @@
+.footer__item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;  
+  text-decoration: none;
+  padding-bottom: 4px;
+}
+
+.footer__item:last-child {
+  padding-bottom: 0;
+}

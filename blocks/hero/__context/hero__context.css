@@ -1,0 +1,10 @@
+.hero__context {
+  color: #001C54;
+  opacity: 0.5;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 39px;
+  margin: 0;
+  max-width: 656px;
+}

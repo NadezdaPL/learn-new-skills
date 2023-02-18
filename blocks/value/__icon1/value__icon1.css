@@ -1,0 +1,11 @@
+.value__icon1 {
+  min-width: 135px;
+  min-height: 135px;
+  background: #C250BF;
+  border-radius: 37px;
+  margin-right: 44px;
+  margin-bottom: 39px;
+  background-image: url('../../../image/Vector\ pen.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
