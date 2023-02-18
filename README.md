@@ -17,7 +17,7 @@
 
 **Animation:**
 
-All links and buttons in the project become have opacipy when hovered over with the mouse.
+All links and buttons in the project have opacipy when hovered over with the mouse.
 
 **Project improvement plans:**
 
