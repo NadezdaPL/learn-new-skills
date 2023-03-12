@@ -1,4 +1,6 @@
-# Learn New Skills
+# **Learn New Skills**
+
+Informative one page website.
 
 **Project includes *7 blocks*:**
 1. Header
